@@ -2,6 +2,14 @@
 
 This project aims to compare the execution times of a basic operation (adding numbers) in C++ and Python. The operation is performed for 5 times, and the average execution time is calculated for both languages.
 
+- [Methodology](#methodology)
+- [C++ Results](#c-results)
+- [Python Results](#python-results)
+- [Performance Comparison](#performance-comparison)
+  - [C++ Advantages](#c-advantages)
+  - [Python Considerations](#python-considerations)
+- [Conclusion](#conclusion)
+
 ## Methodology
 
 The chosen operation involves adding numbers in a loop, repeated one billion times. The goal is to measure the time it takes for each language to complete this task. The measurements were conducted on the same hardware to ensure a fair comparison.
