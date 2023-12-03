@@ -1,6 +1,6 @@
 # C++ vs Python Performance
 
-This project aims to compare the execution times of a basic operation (adding numbers) in C++ and Python. The operation is performed a large number of times, and the average execution time is calculated for both languages.
+This project aims to compare the execution times of a basic operation (adding numbers) in C++ and Python. The operation is performed for 5 times, and the average execution time is calculated for both languages.
 
 ## Methodology
 
